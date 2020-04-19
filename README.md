@@ -1,4 +1,5 @@
 # GroceryList
 A Mini Grocery List App with Java
-https://user-images.githubusercontent.com/41521163/79701540-e14ed780-8295-11ea-8760-bfa5537f0b5c.png
-https://user-images.githubusercontent.com/41521163/79701544-e57af500-8295-11ea-87ba-3e5d3277c885.png
+![grocerylist](https://user-images.githubusercontent.com/41521163/79701678-e5c7c000-8296-11ea-92dc-46c738c6e3ac.png)
+![cart](https://user-images.githubusercontent.com/41521163/79701679-e82a1a00-8296-11ea-97a4-d0f463f96fe0.png)
+
